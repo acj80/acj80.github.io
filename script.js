@@ -1,0 +1,1 @@
+const nav=document.querySelector('.nav');document.querySelector('.menu')?.addEventListener('click',()=>nav.classList.toggle('open'));function placeholder(e){e.preventDefault();alert('Edita este enlace en index.html con tu URL de LinkedIn o GitHub antes de publicar.');return false;}
